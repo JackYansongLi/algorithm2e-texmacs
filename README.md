@@ -19,7 +19,7 @@ cd ~/.TeXmacs/packages/ && git clone git@github.com:JackYansongLi/algorithm2e-te
 If you are using Mogan instead of TeXmacs, run the following command instead
 
 ```shell
-cd ~/.Xmacs/packages/ && git clone git@github.com:JackYansongLi/algorithm2e-texmacs.git
+cd ~/.Xmacs/Library/Application Support/XmacsLabs/packages/ && git clone git@github.com:JackYansongLi/algorithm2e-texmacs.git
 ```
 
 In Windows, drag the .ts file to the $\texttt{package}$ subfolder where the TeXmacs/Mogan is installed.
